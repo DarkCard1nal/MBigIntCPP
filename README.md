@@ -34,3 +34,5 @@ void INV() - bit inversion operation.
 void shiftR(int n) - operation of bit shift to the right by n bits '>>'.
 
 void shiftL(int n) - operation of bit shift to the left by n bits '<<'.
+
+# Examples and tests in examples.cpp
