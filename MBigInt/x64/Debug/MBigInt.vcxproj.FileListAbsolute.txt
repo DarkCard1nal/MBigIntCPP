@@ -1,0 +1,1 @@
+B:\IT\C++\criptografi\MBigint\MBigInt\x64\Debug\MBigInt.exe

@@ -1,0 +1,8 @@
+﻿  MBigInt.cpp
+B:\IT\C++\criptografi\MBigint\MBigInt\MBigInt.cpp(97,18): warning C4018: <: несоответствие типов со знаком и без знака
+B:\IT\C++\criptografi\MBigint\MBigInt\MBigInt.cpp(108,1): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+B:\IT\C++\criptografi\MBigint\MBigInt\MBigInt.cpp(135,1): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+B:\IT\C++\criptografi\MBigint\MBigInt\MBigInt.cpp(307,24): warning C4804: >=: небезопасное использование типа "bool" в операции
+B:\IT\C++\criptografi\MBigint\MBigInt\MBigInt.cpp(307,26): warning C4018: >=: несоответствие типов со знаком и без знака
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+B:\IT\C++\criptografi\MBigint\MBigInt\Debug\MBigInt.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
